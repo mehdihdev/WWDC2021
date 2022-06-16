@@ -10,9 +10,7 @@ I made a car game that has enemies that randomly shoot you from the other side, 
 ![An Image of my playground running](images/Screenshot.png)
 
 
-## Running the App 
-
----
+## Running the App 🖥
 
 Ensure that you have either **Xcode** or **Swift Playgrounds** installed (Sorry Windows users!). I built this playground in Xcode Playgrounds so personally I would use that but you can also run it in Swift Playgrounds (though it is quite slower).
 
